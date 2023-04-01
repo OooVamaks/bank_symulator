@@ -1,0 +1,8 @@
+Adam Michalczyk 20 3245364334523251326 TwojBank 654.70 
+Donald Tusk 60 43756324546865 PoBank 20000.20 
+Jaroslaw Kaczynski 61 2346546324 PisBank 20000.10 
+Michal Adamczyk 43 4235642352545 JegoBank 1346.00 
+Dawid Kolas 32 1367216632476342 CoolBank 23321.00 
+Edward Gierek 120 3245364786387643 BankSpoldzielczy 112311.50 
+Jakub Solec 70 12343543647463 mbank 60.00 
+Roman Giertych 25 9876545678987654 PEkao 23.20 
